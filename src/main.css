@@ -195,6 +195,10 @@ fieldset {
   display: block;
 }
 
+.jeebo.main-logo {
+  background-color: Pink;
+}
+
 button,
 html input[type="button"],
 input[type="reset"] {

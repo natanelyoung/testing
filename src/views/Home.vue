@@ -3,7 +3,7 @@
     src="../assets/logo.png"
     height=""
     width=""
-    class="main-logo"
+    class="main-logo jeebo"
  /></div>
 </template>
 
